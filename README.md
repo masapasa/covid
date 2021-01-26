@@ -1,4 +1,4 @@
-[//]: # (This template replaces README.md when someone creates a new repo with the fastpages template.)
+[//]: # (This template replaces README.md when someone creates a new repo with the fastpages template and fastai.)
 
 ![](https://github.com/github/covid19-dashboard/workflows/CI/badge.svg) 
 ![](https://github.com/github/covid19-dashboard/workflows/GH-Pages%20Status/badge.svg) 
